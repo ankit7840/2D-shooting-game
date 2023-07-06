@@ -1,6 +1,8 @@
 # 2D-shooting-game
  a 2D shoting game where we can set the level of the game .
-RUle for the game 
+
+ 
+Rule for the game 
 
 Killing each enemy will give you 10 points.
 
